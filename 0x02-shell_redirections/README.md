@@ -10,6 +10,8 @@
 
 (6) 5-firstlines -> Displays the first 10 lines of a file
 
-(7) 6-third_line -> Displays the 3rd line of a line
+(7) 6-third_line -> Displays the 3rd line of a line 
 
- 
+(9) 8-cwd_state -> Save current state of directory
+
+
