@@ -14,4 +14,6 @@
 
 (9) 8-cwd_state -> Save current state of directory
 
+(12) 11-directories -> Directory / Sub_dir count
+
 
