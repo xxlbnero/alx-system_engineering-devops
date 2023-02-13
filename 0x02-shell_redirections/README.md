@@ -20,4 +20,6 @@
 
 (14) 13-unique -> Display sorted and unique list of file contents
 
+(15) 14-findthatword -> Pattern matching with grep_01
+
 
