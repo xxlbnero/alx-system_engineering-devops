@@ -1,1 +1,2 @@
-(1) 0-hello_word -> Prints 'Hello, World' to standard output
+(1) 0-hello_word -> Prints 'Hello, World' to standard output 
+(2) 2-hellofile  -> Display the content of the /etc/passwd file 
