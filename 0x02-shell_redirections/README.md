@@ -34,4 +34,6 @@
 
 (21) 20-hiago -> Deletes every occurance of C or c
 
+(22) 21-reverse -> Reverses a given input
+
 
