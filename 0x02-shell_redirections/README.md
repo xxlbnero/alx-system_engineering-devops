@@ -24,4 +24,6 @@
 
 (16) 15-countthatword -> Word count using grep
 
+(17) 16-whatsnext -> Pattern match of root and 3 lines after
+
 
