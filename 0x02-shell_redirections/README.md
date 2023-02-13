@@ -18,4 +18,6 @@
 
 (13) 12-newest_files -> Displays 10 newest files in the CWD
 
+(14) 13-unique -> Display sorted and unique list of file contents
+
 
