@@ -26,4 +26,6 @@
 
 (17) 16-whatsnext -> Pattern match of root and 3 lines after
 
+(18) 17-hidethisword -> Pattern match of bin not in the /etc/passwd file
+
 
