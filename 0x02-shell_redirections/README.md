@@ -28,4 +28,6 @@
 
 (18) 17-hidethisword -> Pattern match of bin not in the /etc/passwd file
 
+(19) 18-letteronly -> Alphanumeric pattern match using grep
+
 
