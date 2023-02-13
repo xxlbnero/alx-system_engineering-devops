@@ -32,4 +32,6 @@
 
 (20) 19-AZ -> Search and replace
 
+(21) 20-hiago -> Deletes every occurance of C or c
+
 
