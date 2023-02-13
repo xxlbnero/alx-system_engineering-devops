@@ -16,4 +16,6 @@
 
 (12) 11-directories -> Directory / Sub_dir count
 
+(13) 12-newest_files -> Displays 10 newest files in the CWD
+
 
