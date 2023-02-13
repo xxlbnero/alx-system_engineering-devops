@@ -8,4 +8,6 @@
 
 (5) 4-lastlines -> Displays the last 10 lines of a file
 
+(6) 5-firstlines -> Displays the first 10 lines of a file
+
  
