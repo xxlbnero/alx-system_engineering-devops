@@ -30,4 +30,6 @@
 
 (19) 18-letteronly -> Alphanumeric pattern match using grep
 
+(20) 19-AZ -> Search and replace
+
 
