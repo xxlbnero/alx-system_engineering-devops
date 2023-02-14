@@ -44,4 +44,10 @@
 
 (26) 10-no_more_js -> Delete regular files with the .js extention
 
+(27) 100-empty_casks -> Bonus task 1 > empty files and directories
+
+(28) 101-gifs -> Bonus task 2 > Displays list of .gifs
+
+(29) 102-acrostic -> Acrostic
+
 
