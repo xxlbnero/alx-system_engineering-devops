@@ -40,4 +40,6 @@
 
 (24) 7-file -> Create filename of escape characters
 
+(25) 9-duplicate_last_line -> Duplicate last line of a text
+
 
