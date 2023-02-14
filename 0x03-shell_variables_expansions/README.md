@@ -22,7 +22,7 @@
 
 (11) 11-binary_to_decimal -> Convert variable 'BINARY' value to decimal
 
-(12)
+(12) 12-combinations -> Prints all combination of letters except oo
 
 (13) 13-print_float -> Print decimal to 2 decimal places
 
