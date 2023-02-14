@@ -42,4 +42,6 @@
 
 (25) 9-duplicate_last_line -> Duplicate last line of a text
 
+(26) 10-no_more_js -> Delete regular files with the .js extention
+
 
