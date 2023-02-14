@@ -38,4 +38,6 @@
 
 (23) 22-users_and_homes -> a script that displays all users and their home directories, sorted by users
 
+(24) 7-file -> Create filename of escape characters
+
 
