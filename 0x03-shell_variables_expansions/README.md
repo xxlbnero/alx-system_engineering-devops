@@ -20,5 +20,11 @@
 
 (10) 10-love_exponent_breath -> Raise BREATH to the power of LOVE
 
+(11) 11-binary_to_decimal -> Convert variable 'BINARY' value to decimal
+
+(12)
+
+(13) 13-print_float -> Print decimal to 2 decimal places
+
 
 
